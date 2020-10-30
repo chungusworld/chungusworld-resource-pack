@@ -22,5 +22,13 @@
         "stream": true
       }
     ]
+  },
+  "nae.china": {
+    "sounds": [
+      {
+        "name": "records/nae",
+        "stream": true
+      }
+    ]
   }
 }
