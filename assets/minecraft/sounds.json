@@ -38,6 +38,13 @@
         "stream": true
       }
     ]
+  "grant.rr": {
+    "sounds": [
+      {
+        "name": "records/ramranch",
+        "stream": true
+      }
+    ]
   },
   "mfdoom": {
     "sounds": [
