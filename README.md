@@ -1,1 +1,1 @@
-# chungusworld
+# ChungusWorld Resource Pack
