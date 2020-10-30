@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 6,
-    "description": "put what ever you want here"
+    "description": "Server resource pack for ChungusWorld Spigot server running Minecraft 1.16.3. This is being used to add music discs using Jext."
   }
 }
