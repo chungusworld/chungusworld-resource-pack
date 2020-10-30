@@ -30,5 +30,21 @@
         "stream": true
       }
     ]
-  }
+  },
+  "snow.halation": {
+    "sounds": [
+      {
+        "name": "records/snowhalation",
+        "stream": true
+      }
+    ]
+  },
+  "mfdoom": {
+    "sounds": [
+      {
+        "name": "ui/mfdoom",
+        "volume": 1
+      },
+	]
+  },
 }
