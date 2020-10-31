@@ -1,5 +1,5 @@
 {
-  "ap.world": {
+  "apworld": {
     "sounds": [
       {
         "name": "records/apworld",
@@ -7,7 +7,7 @@
       }
     ]
   },
-  "baka.mitai": {
+  "bakamitai": {
     "sounds": [
       {
         "name": "records/bakamitai",
@@ -15,7 +15,7 @@
       }
     ]
   },
-  "big.chungus": {
+  "bigchungus": {
     "sounds": [
       {
         "name": "records/bigchungus",
@@ -23,7 +23,7 @@
       }
     ]
   },
-  "cbt.wikipedia": {
+  "cbt": {
     "sounds": [
       {
         "name": "records/cbt",
@@ -31,7 +31,15 @@
       }
     ]
   },
-  "nae.china": {
+  "ramranch": {
+    "sounds": [
+      {
+        "name": "records/ramranch",
+        "stream": true
+      }
+    ]
+  },
+  "naechina": {
     "sounds": [
       {
         "name": "records/nae",
@@ -39,18 +47,10 @@
       }
     ]
   },
-  "snow.halation": {
+  "snowhalation": {
     "sounds": [
       {
         "name": "records/snowhalation",
-        "stream": true
-      }
-    ]
-  },
-  "grant.rr": {
-    "sounds": [
-      {
-        "name": "records/ramranch",
         "stream": true
       }
     ]
@@ -62,5 +62,13 @@
         "volume": 1
       }
 	]
+  },
+  "prius": {
+    "sounds": [
+      {
+        "name": "records/prius",
+        "stream": true
+      }
+    ]
   }
 }
