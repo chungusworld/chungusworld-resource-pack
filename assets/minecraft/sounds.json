@@ -1,4 +1,12 @@
 {
+  "ap.world": {
+    "sounds": [
+      {
+        "name": "records/apworld",
+        "stream": true
+      }
+    ]
+  },
   "baka.mitai": {
     "sounds": [
       {
