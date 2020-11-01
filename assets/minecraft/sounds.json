@@ -70,5 +70,21 @@
         "stream": true
       }
     ]
+  },
+  "prop24": {
+    "sounds": [
+      {
+        "name": "records/prop24",
+        "stream": true
+      }
+    ]
+  },
+  "ruby": {
+    "sounds": [
+      {
+        "name": "records/ruby",
+        "stream": true
+      }
+    ]
   }
 }
