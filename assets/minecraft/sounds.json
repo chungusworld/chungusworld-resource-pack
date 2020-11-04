@@ -31,10 +31,26 @@
       }
     ]
   },
+  "gym": {
+    "sounds": [
+      {
+        "name": "ui/gym",
+        "volume": 1
+      }
+	]
+  },
   "ramranch": {
     "sounds": [
       {
         "name": "records/ramranch",
+        "stream": true
+      }
+    ]
+  },
+  "rickroll": {
+    "sounds": [
+      {
+        "name": "records/rickroll",
         "stream": true
       }
     ]
