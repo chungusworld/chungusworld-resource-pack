@@ -7,13 +7,13 @@
         { "predicate": {"custom_model_data": 1 }, "model": "item/bakamitai" },
         { "predicate": {"custom_model_data": 2 }, "model": "item/bigchungus" },
         { "predicate": {"custom_model_data": 3 }, "model": "item/cbt" },
-        { "predicate": {"custom_model_data": 4 }, "model": "item/ruby" }
-        { "predicate": {"custom_model_data": 5 }, "model": "item/apworld" }
+        { "predicate": {"custom_model_data": 4 }, "model": "item/ruby" },
+        { "predicate": {"custom_model_data": 5 }, "model": "item/apworld" },
         { "predicate": {"custom_model_data": 6 }, "model": "item/rickroll" },
         { "predicate": {"custom_model_data": 7 }, "model": "item/prop24" },
         { "predicate": {"custom_model_data": 8 }, "model": "item/ramranch" },
 		{ "predicate": {"custom_model_data": 9 }, "model": "item/prius" },
-        { "predicate": {"custom_model_data": 10 }, "model": "item/nae" }
+        { "predicate": {"custom_model_data": 10 }, "model": "item/nae" },
         { "predicate": {"custom_model_data": 11 }, "model": "item/snowhalation" }
     ]
 }
