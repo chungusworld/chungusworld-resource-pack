@@ -12,7 +12,8 @@
         { "predicate": {"rickroll": 6 }, "model": "item/rickroll" },
         { "predicate": {"prop24": 7 }, "model": "item/prop24" },
         { "predicate": {"ramranch": 8 }, "model": "item/ramranch" },
-        { "predicate": {"nae": 9 }, "model": "item/nae" }
-        { "predicate": {"snowhalation": 10 }, "model": "item/snowhalation" }
+		{ "predicate": {"prius": 9 }, "model": "item/prius" },
+        { "predicate": {"nae": 10 }, "model": "item/nae" }
+        { "predicate": {"snowhalation": 11 }, "model": "item/snowhalation" }
     ]
 }
